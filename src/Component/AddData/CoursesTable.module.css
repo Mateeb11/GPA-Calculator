@@ -1,0 +1,14 @@
+.input select{
+    border-color: lightsalmon;
+    width: 70%;
+    height: 30px;
+    cursor: pointer;;
+}
+.input .hours{
+    width: 30%;
+}
+.input .name{
+    width: 90%;
+    text-align: right;
+    height: 30px;
+}
